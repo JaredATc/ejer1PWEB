@@ -54,4 +54,12 @@
         app:layout_constraintStart_toStartOf="@+id/btnMostrar"
         tools:layout_editor_absoluteY="521dp" />
 
+    <TextView
+        android:id="@+id/txtResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="179dp"
+        tools:layout_editor_absoluteY="370dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
